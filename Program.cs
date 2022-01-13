@@ -13,6 +13,8 @@ using Discord.WebSocket;
 using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
 
+//MAIN IDEA FROM https://github.com/jay23606
+//Discord bot by NaderB
     class Program
     {
         //update with your info
