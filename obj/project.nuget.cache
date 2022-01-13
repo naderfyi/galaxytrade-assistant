@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzyYiTTQD33jn5ztVkVIffXu8AvAumVlfi+Cm+b+7GN4URBLEiyM2wU7AkANEM9BfVhKO1/68S8JyGqOsTRMHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nader\\Desktop\\BubbleDiscordBot\\BubbleDiscordBot\\BubbleDiscordBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nader\\.nuget\\packages\\discord.net\\3.1.0\\discord.net.3.1.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\discord.net.commands\\3.1.0\\discord.net.commands.3.1.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\discord.net.core\\3.1.0\\discord.net.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\discord.net.interactions\\3.1.0\\discord.net.interactions.3.1.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\discord.net.rest\\3.1.0\\discord.net.rest.3.1.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\discord.net.webhook\\3.1.0\\discord.net.webhook.3.1.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\discord.net.websocket\\3.1.0\\discord.net.websocket.3.1.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\nader\\.nuget\\packages\\xcommas.net\\1.0.34\\xcommas.net.1.0.34.nupkg.sha512"
+  ],
+  "logs": []
+}
